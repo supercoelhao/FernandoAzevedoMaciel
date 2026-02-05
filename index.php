@@ -1,20 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BREAKINGBADREALFANS.COM</title>
+    <title>Tiaguinho criações</title>
+    <link rel="stylesheet" href="assets/styles.css">
 </head>
-<body>
-    
-</body>
-    <div class="container">
-    <?php
-    $titulo = "BREKING BAD REAL FANS";
-    $subti = "Say my name, bitch!";
 
-    echo "<h1> $titulo <br> $subti </h1>";
-    ?>
+<body>
+    <div class="container">
+
+        <!-- CABEÇALHO DA MINHA PÁGINA  -->
+        <header>
+            <!-- IMAGEM -->
+            <img src="assets/tyler-the.gif" alt="tylermug">
+
+            <!-- TÍTULO -->
+            <h1>THIAGUINHO CRIAÇÕES</h1>
+            <p>Wiki (não) oficial do Tyler, the Creator</p>
+        </header>
+
+        <!-- MENU DE NAVEGAÇÃO -->
+        <nav>
+            <ul>
+                <li><a href="#">Tags HTML</a></li>
+                <li><a href="#">CSS</a></li>
+            </ul>
+
+        </nav>
+
+
+
     </div>
+
+</body>
 
 </html>
