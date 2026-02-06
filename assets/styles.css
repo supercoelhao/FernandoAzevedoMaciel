@@ -1,8 +1,40 @@
-html, body {
-    margin: 10;
-    padding: 10;
+/* ESPAÇAMENTO DO CONTEÚDO DA PÁGINA */
+html,
+body {
+    margin: auto;
+    padding: 0;
+    background-color: #ff0080;
 }
 
+
+/*  */
 .container {
-    width: 100%;
+    height: 100vh;
+    background-color: #9c004e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+
+}
+
+header {
+    margin-top: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+/* DEFINIÇÃO DA FONTE */
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
 }
