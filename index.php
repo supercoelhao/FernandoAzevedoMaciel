@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tiaguinho criações</title>
     <link rel="stylesheet" href="assets/styles.css">
+    
 </head>
 
 <body>
@@ -22,9 +23,15 @@
 
         <!-- MENU DE NAVEGAÇÃO -->
         <nav>
+            <!-- LISTA DESORDENADA -->
             <ul>
-                <li><a href="#">Tags HTML</a></li>
-                <li><a href="#">CSS</a></li>
+                <li>
+                    <a href="tags.html">Tags HTML</a>
+                </li>
+                <li>
+                    <a href="css.html">CSS</a>
+                </li>
+                    <a href="albuns.html">ÁLBUNS</a>
             </ul>
 
         </nav>
