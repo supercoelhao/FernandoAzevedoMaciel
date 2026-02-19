@@ -25,18 +25,13 @@
         <nav>
             <!-- LISTA DESORDENADA -->
             <ul>
-                <li>
-                    <a href="tags.html">Tags HTML</a>
-                </li>
-                <li>
-                    <a href="css.html">CSS</a>
                 </li>
                     <a href="albuns.html">ÁLBUNS</a>
+                </li>
             </ul>
-
         </nav>
-
-
+     <header>
+    <main></main>
 
     </div>
 
