@@ -26,7 +26,7 @@
             <!-- LISTA DESORDENADA -->
             <ul>
                 </li>
-                    <a href="albuns.html">ÁLBUNS</a>
+                    <a href="albuns.html" class="menu-link">➜Álbuns</a>
                 </li>
             </ul>
         </nav>
